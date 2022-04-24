@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://www.google.com/search?q=minato+e+kushina+lua&rlz=1C1CHBD_pt-PTBR924BR924&sxsrf=APq-WBsW0OezODwbesn4V3oOa4XVDACJAA:1650804972793&tbm=isch&source=iu&ictx=1&vet=1&fir=cv7La9XqIUdMOM%252Ckn9H6LmzP9hS_M%252C_%253Ba-i9P0m1eqfkxM%252CLoWu2C3UbWTB7M%252C_%253B_bn0xzGafbNEVM%252CBR7-YrLcYJMoMM%252C_%253BiSY9xCWi5M50jM%252Ckn9H6LmzP9hS_M%252C_%253BOWiPaDkK5j9oNM%252C8u8TiHpypzI9JM%252C_%253BPe7puV8TcWr7LM%252C1KX-uJunB7S3DM%252C_%253BPi5LsaSifkqudM%252C_4rQ0D6-Lu8-CM%252C_%253BpwA4j0eMZYS8hM%252Ckn9H6LmzP9hS_M%252C_&usg=AI4_-kS9gbbW5UTp2h8jMGJVADAKAyQK6A&sa=X&ved=2ahUKEwjaqfzf36z3AhUjK7kGHQw4At4Q9QF6BAgGEAE&biw=2133&bih=1041&dpr=0.9#imgrc=cv7La9XqIUdMOM
+  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/413887410058035210/967771824748376084/unknown.png">
 </div>
   
   ##
