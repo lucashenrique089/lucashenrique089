@@ -1,11 +1,10 @@
 ### Olá me chamo Lucas Henrique.👋
 
 
-- 🔭 Estágio em marketing digital/ mas um amante de tecnologia!
+- 🔭 Formado em Propaganda e Marketing
 - 🌱 Estudando Front-end e Python e analise de dados
 - 🤔 Procurando aprender mais e mais 😁
 - 💬 Deixe dicas para eu melhorar!!!
-- 😍 Amante de games e que faz academia, focado em ficar fibrado!
 
  <div>
   <a href="https://github.com/lucashenrique089">
