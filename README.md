@@ -2,7 +2,8 @@
 
 
 - 🔭 Formado em Propaganda e Marketing
-- 🌱 Estudando Front-end e Python e analise de dados
+- 🌱 Estudando Analíse de Dados e Data Science
+- 🚲 Amante de Academia e Esporte
 - 🤔 Procurando aprender mais e mais 😁
 - 💬 Deixe dicas para eu melhorar!!!
 
