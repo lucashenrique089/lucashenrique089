@@ -14,6 +14,7 @@
 ### 🎯 Sobre mim
 
 - 🎓 Formado em Propaganda e Marketing
+- 📚 Pós-graduando em Data Analytics pela FIAP
 - 📊 Migrando de carreira para **Marketing Science / Análise de Dados**
 - 🐍 Estudando Python, SQL e Data Science aplicados a marketing
 - 🏋️ Academia e treino fazem parte da rotina
@@ -43,6 +44,8 @@
 
 ---
 
+### 🏆 Troféus
+
 <p align="center">
-  <img src="https://github.com/lucashenrique089/lucashenrique089/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lucashenrique089&theme=dracula&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
 </p>
